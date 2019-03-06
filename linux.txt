@@ -1,0 +1,6 @@
+    1  mkdir -p /opt/awsrepo && cd/opt/awsrepo
+    2  mkdir -p /opt/awsrepo && cd /opt/awsrepo
+    3  git init
+    4  yum install git
+    5  history
+

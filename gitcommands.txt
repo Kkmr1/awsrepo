@@ -1,0 +1,16 @@
+t init: initializes git connection
+    4  yum install git: alternative to git init
+    8      3  git init:initiates git connection
+    9      4  yum install git: alternative to git init
+   12  git status: gets the status of file.eg: where it is untracked area,commit area
+   14  git status
+   15  git init
+   17  git status
+   18  git add linuxcommands.txt:NA
+   19  git add linux.txt:to add the txt file to commit area
+   20  git status
+   21  git commit -m"My first push": to push my file to cloud/remote repo
+   22  git remote add origin https://github.com/Kkmr1/awsrepo.git
+   23  git push -u origin master
+   24  history | grep git
+
